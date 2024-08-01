@@ -10,6 +10,9 @@ import os
 import re
 import io
 
+
+#teste de clonagem
+
 here = os.path.abspath(os.path.dirname(__file__))
 
 CURRENT_PYTHON = sys.version_info[:2]
